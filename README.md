@@ -4,3 +4,4 @@ Weekly projects for Hardvard CS50 AI course (see https://cs50.harvard.edu/ai/202
 
 - Week 0: Search
 - Week 1: Knowledge
+- Week 2: Uncertainty
